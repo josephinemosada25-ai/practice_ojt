@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(117, 110, 115);
+}
+*.W {
+  color: rgb(253, 190, 253);
+}
+.T {
+  color: rgb(185, 27, 172);
+}
+.p1 {
+  color: rgb(250, 135, 154);
+}
+.p2 {
+  color: rgb(230, 173, 216);
+}
+.p3 {
+  color: rgb(230, 124, 194);
+}
+.p4 {
+  color: rgb(236, 149, 215);
+}
+.p5 {
+  color: rgb(255, 0, 179);
+}
+.p6 {
+  color: rgb(216, 93, 130);
+}
+th {
+  background-color: rgb(252, 228, 250);
+  color: white;
+}
+.F {
+  color: rgb(9, 10, 10);
+}
+.A1 {
+  color: rgb(23, 25, 26);
+}
+table,
+th,
+td {
+  color: rgb(29, 73, 90);
+  border: 1.5px solid rgb(29, 73, 90);
+  border-collapse: collapse;
+}
